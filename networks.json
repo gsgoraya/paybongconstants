@@ -1,4 +1,4 @@
-export const networks = [
+[
     {
       "chainId": 1,
       "name": "mainnet",
@@ -26,7 +26,7 @@ export const networks = [
       "platform": "ethereum",
       "contract": "0x13c68Cd42632931c6c7fb746a288657f5B413251",
       "rpc": "http://host.docker.internal:7545",
-      "ws": 'ws://127.0.0.1:7545',
+      "ws": "ws://127.0.0.1:7545",
       "symbol": "ETH",
       "decimals": 18,
       "isTestnet": true
