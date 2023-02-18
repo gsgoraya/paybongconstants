@@ -24,7 +24,7 @@
       "chainId": 1337,
       "name": "ganache",
       "platform": "ethereum",
-      "contract": "0xdC708F19D005130E3EBed34Ac4391F5B6C001688",
+      "contract": "0x60Ef42567dCa5C2513227c4bF2FB08519591953D",
       "rpc": "http://host.docker.internal:7545",
       "ws": "ws://127.0.0.1:7545",
       "symbol": "ETH",
