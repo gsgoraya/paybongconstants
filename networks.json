@@ -23,7 +23,7 @@
         "chainId": 5,
         "name": "Goerli",
         "platform": "ethereum",
-        "contract": "0xCDd35EcF5788CE9678A30A09d6E27bd4f1B41cd9",
+        "contract": "0xe30881cb5d72835b110d9362b6c169e0e67a3995",
         "rpc": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
         "ws": "wss://goerli.infura.io/ws/v3/9aa3d95b3bc440fa88ea12eaa4456161",
         "symbol": "ETH",
