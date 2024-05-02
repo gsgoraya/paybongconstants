@@ -51,5 +51,15 @@
       "symbol": "ETH",
       "decimals": 18,
       "isTestnet": true
+    },
+    {
+      "chainId": 43114,
+      "name": "Avalanche Mainnet",
+      "platform": "avalanche",
+      "contract": "0x000",
+      "rpc": "https://api.avax.network/ext/bc/C/rpc",
+      "ws": "wss://api.avax.network/ext/bc/C/ws",
+      "symbol": "AVAX",
+      "decimals": 18
     }
 ]
