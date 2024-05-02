@@ -34,7 +34,7 @@
         "chainId": 11155111,
         "name": "Sepolia",
         "platform": "ethereum",
-        "contract": "0x024f185F8d9E9bBf368F7D843f974535d1Ae071e",
+        "contract": "0x81335fe666ab84e0Dda1d27f7216d83c383BAC91",
         "rpc": "https://sepolia.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
         "ws": "wss://sepolia.infura.io/ws/v3/9aa3d95b3bc440fa88ea12eaa4456161",
         "symbol": "ETH",
