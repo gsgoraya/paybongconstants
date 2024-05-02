@@ -31,6 +31,17 @@
         "isTestnet": true
     },
     {
+        "chainId": 11155111,
+        "name": "Sepolia",
+        "platform": "ethereum",
+        "contract": "0x024f185F8d9E9bBf368F7D843f974535d1Ae071e",
+        "rpc": "https://sepolia.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+        "ws": "wss://sepolia.infura.io/ws/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+        "symbol": "ETH",
+        "decimals": 18,
+        "isTestnet": true
+    },
+    {
       "chainId": 1337,
       "name": "ganache",
       "platform": "ethereum",
