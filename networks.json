@@ -1,25 +1,5 @@
 [
     {
-      "chainId": 1,
-      "name": "mainnet",
-      "platform": "ethereum",
-      "contract": "0x0000000000000000000000000000000000000000",
-      "rpc": "https://mainnet.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
-      "ws": "wss://mainnet.infura.io/ws/v3/9aa3d95b3bc440fa88ea12eaa4456161",
-      "symbol": "ETH",
-      "decimals": 18
-    },
-    {
-      "chainId": 1313161554,
-      "name": "Aurora Mainnet",
-      "platform": "aurora",
-      "contract": "0x0000000000000000000000000000000000000000",
-      "rpc": "https://mainnet.aurora.dev",
-      "ws": "wss://mainnet.aurora.dev/ws",
-      "symbol": "ETH",
-      "decimals": 18
-    },
-    {
         "chainId": 5,
         "name": "Goerli",
         "platform": "ethereum",
@@ -40,26 +20,5 @@
         "symbol": "ETH",
         "decimals": 18,
         "isTestnet": true
-    },
-    {
-      "chainId": 1337,
-      "name": "ganache",
-      "platform": "ethereum",
-      "contract": "0x60Ef42567dCa5C2513227c4bF2FB08519591953D",
-      "rpc": "http://host.docker.internal:7545",
-      "ws": "ws://127.0.0.1:7545",
-      "symbol": "ETH",
-      "decimals": 18,
-      "isTestnet": true
-    },
-    {
-      "chainId": 43114,
-      "name": "Avalanche Mainnet",
-      "platform": "avalanche",
-      "contract": "0x000",
-      "rpc": "https://api.avax.network/ext/bc/C/rpc",
-      "ws": "wss://api.avax.network/ext/bc/C/ws",
-      "symbol": "AVAX",
-      "decimals": 18
     }
 ]
